@@ -10,6 +10,7 @@ en el siguiente enlace https://www.microsoft.com/es-mx/download/details.aspx?id=
 -Descargar el archivo PracticaCalificaciones-master.zip. <br />
 -Extraer los archivos. <br />
 -Abrir el archivo Ejercicio-Calificaciones.sln con Visual Studio. <br />
+-Establecer como proyecto de inicio Ejercicio-Calificaciones
 -Iniciar la depuración del proyecto.
 
 ## Elaborado con
