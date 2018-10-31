@@ -168,8 +168,8 @@
 
             cargarGraficaInformacion('cnvCalificaciones', 'ObtenerGraficaInformacionAlumnos', 'Calificación');
             cargarGraficaPromedio('cnvPromedio', 'ObtenerGraficaPromedio', 'Promedio');
-            cargarAlumno('lblMenorCalificacion', 'ObtenerPeorCalificacion', 'El estudiante con la calificación más alta:');
-            cargarAlumno('lblMejorCalificacion', 'ObtenerMayorCalificacion', 'El estudiante con la calificación más baja:');
+            cargarAlumno('lblMenorCalificacion', 'ObtenerPeorCalificacion', 'El estudiante con la calificación más baja:');
+            cargarAlumno('lblMejorCalificacion', 'ObtenerMayorCalificacion', 'El estudiante con la calificación más alta:');
             cargarPromedio('lblPromedioCalificacion', 'ObtenerPromedioCalificaciones', 'El promedio de las calificaciones de todos los estudiantes es:');
     };
 
