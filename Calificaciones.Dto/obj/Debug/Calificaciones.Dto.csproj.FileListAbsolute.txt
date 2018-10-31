@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Esthela\Ejercicio-Calificaciones\Calificaciones.Dto\bin\Debug\Calificaciones.Dto.dll
+C:\Users\User\Documents\Esthela\Ejercicio-Calificaciones\Calificaciones.Dto\bin\Debug\Calificaciones.Dto.pdb
+C:\Users\User\Documents\Esthela\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Esthela\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Esthela\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.dll
+C:\Users\User\Documents\Esthela\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.pdb
+C:\Users\esste\Desktop\Examen Conduent\Ejercicio-Calificaciones\Calificaciones.Dto\bin\Debug\Calificaciones.Dto.dll
+C:\Users\esste\Desktop\Examen Conduent\Ejercicio-Calificaciones\Calificaciones.Dto\bin\Debug\Calificaciones.Dto.pdb
+C:\Users\esste\Desktop\Examen Conduent\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.csprojAssemblyReference.cache
+C:\Users\esste\Desktop\Examen Conduent\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.csproj.CoreCompileInputs.cache
+C:\Users\esste\Desktop\Examen Conduent\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.dll
+C:\Users\esste\Desktop\Examen Conduent\Ejercicio-Calificaciones\Calificaciones.Dto\obj\Debug\Calificaciones.Dto.pdb
